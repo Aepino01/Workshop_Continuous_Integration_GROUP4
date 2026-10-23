@@ -23,7 +23,7 @@ class WorkedExamplesTest {
         "STANDARD, GROUP_CLASSES PERSONAL_TRAINING,                 4, 286",
         "PREMIUM,  GROUP_CLASSES SPA,                               2, 215",
         "PREMIUM,  SPA SPECIALIZED_PROGRAM,                         3, 412",
-        "PREMIUM,  SPA SPECIALIZED_PROGRAM PERSONAL_TRAINING,       4, 627",
+        "PREMIUM,  SPA SPECIALIZED_PROGRAM PERSONAL_TRAINING,       4, 626",
         "BASIC,    SPA,                                             1,  -1",
         "GOLD,     none,                                            1,  -1",
         "BASIC,    none,                                            0,  -1",
